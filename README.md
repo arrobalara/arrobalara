@@ -34,6 +34,7 @@
     </a>
     </div>
           
+          
 <h2>  • Sobre mim 🤓</h2>
 Meu nome é Maria de Lara, mas todo mundo me conhece só por Lara ou por De Lara. Tenho 26 anos e moro em Conselheiro Lafaiete - MG. Estou cursando o superior em Análise e Desenvolvimento de Sistemas e recentemente iniciei os estudos em HTML, CSS, JavaScript e MySQL.
 
