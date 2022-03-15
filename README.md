@@ -62,10 +62,9 @@ Meu nome é Maria de Lara, mas todo mundo me conhece só por Lara ou por De Lara
             <br> </br>
 </div>
  <div>
-    <h1>         </h1> 
-    <h1>         </h1>
-    
+      
 
+ <h2> • Estatísticas 📊</h2> 
         
   <a href="https://github.com/arrobalara">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=arrobalara&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>&nbsp
@@ -74,5 +73,10 @@ Meu nome é Maria de Lara, mas todo mundo me conhece só por Lara ou por De Lara
 
     
     
+ <h2> • Total de visitas no meu perfil </h2> 
+<img src="https://profile-counter.glitch.me/arrobalara/count.svg" />
+
+
+Obrigada pela visita, volte sempre! 🤙🏽
      
     
