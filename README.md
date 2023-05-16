@@ -36,13 +36,13 @@
           
           
 <h2>  • Sobre mim 🤓</h2>
-Meu nome é Maria de Lara, mas todo mundo me conhece só por Lara ou por De Lara. Tenho 26 anos e moro em Conselheiro Lafaiete - MG. Estou cursando o superior em Análise e Desenvolvimento de Sistemas e recentemente iniciei os estudos em HTML, CSS, JavaScript e MySQL.
+Meu nome é Maria de Lara, mas todo mundo me conhece só por Lara ou por De Lara. Tenho 27 anos e moro em Ouro Branco - MG. Estou cursando o superior em Análise e Desenvolvimento de Sistemas e recentemente iniciei os estudos em HTML, CSS, JavaScript, Python e MySQL.
 
 <br> </br>
 
 
 <h2> • Formação acadêmica (cursando) 🎓</h2>
-<strong> • Análise e Desenvolvimento de Sistemas 🖥️</strong> - Universidade Cruzeiro do Sul 🌟
+<strong> • Análise e Desenvolvimento de Sistemas 🖥️</strong> - Universidade de Franca 🌟
 
 <br> </br>
 
@@ -59,6 +59,9 @@ Meu nome é Maria de Lara, mas todo mundo me conhece só por Lara ou por De Lara
             src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
      <img align="center" alt="Java"
             src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+        <img align="center" alt="Python"
+            src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
+        <img align="center" alt="CSS"
             <br> </br>
 </div>
  <div>
