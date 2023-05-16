@@ -61,8 +61,7 @@ Meu nome é Maria de Lara, mas todo mundo me conhece só por Lara ou por De Lara
             src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
         <img align="center" alt="Python"
             src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
-        <img align="center" alt="CSS"
-            <br> </br>
+                   <br> </br>
 </div>
  <div>
       
