@@ -67,7 +67,7 @@ Meu nome é Maria de Lara, mas todo mundo me conhece só por Lara ou por De Lara
  <h2> • Estatísticas 📊</h2> 
         
   <a href="https://github.com/arrobalara">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=arrobalara&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>&nbsp
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=arrobalara&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arrobalara&layout=compact&langs_count=16&theme=tokyonight"/> </a>
 </div>
 
