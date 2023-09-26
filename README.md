@@ -60,7 +60,6 @@ Meu nome é Maria de Lara, mas todo mundo me conhece só por Lara ou por De Lara
         <img align="center" alt="MySQL"
             src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
         
-                   <br> </br>
 </div>
  <div>
       
